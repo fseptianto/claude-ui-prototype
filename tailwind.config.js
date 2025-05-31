@@ -4,7 +4,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        accurment: ['TimesClassicDisplay', 'serif'],
+        lato: ['Lato', 'sans-serif'],
+      }
+    }
   },
   plugins: [],
 }
