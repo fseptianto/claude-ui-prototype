@@ -9,7 +9,7 @@ export default {
         accurment: ['TimesClassicDisplay', 'serif'],
         lato: ['Lato', 'sans-serif'],
       }
-    }
+    },
   },
   plugins: [],
 }
